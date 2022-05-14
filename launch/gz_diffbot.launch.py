@@ -10,8 +10,8 @@ from launch_ros.substitutions import FindPackageShare
 from scripts import GazeboRosPaths
 import xacro
 
-pkg_name =    'rrbot'
-robot_name =  'rrbot'
+pkg_name =    'diffbot'
+robot_name =  'diffbot'
 world_name =  robot_name+'.world'
 
 spawn_x_val =     '0.0'
