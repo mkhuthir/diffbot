@@ -10,7 +10,7 @@ from launch.substitutions import Command, LaunchConfiguration
 from launch_ros.actions import Node
 from launch_ros.substitutions import FindPackageShare
 
-pkg_name =    'robot_gazebo'
+pkg_name =    'diffbot'
 robot_name =  'diffbot'
 world_name =  robot_name+'.world'
 
