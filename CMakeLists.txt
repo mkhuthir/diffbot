@@ -39,7 +39,7 @@ install(DIRECTORY
   launch
   meshes
   ros2_control
-  rrbot
+  diffbot
   rviz
   scripts
   worlds
