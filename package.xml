@@ -4,13 +4,13 @@
   <name>diffbot</name>
   <version>0.1.0</version>
   
-  <description>rrbot</description>
+  <description>diffbot</description>
 
   <maintainer email="mkhuthir@gmail.com">Muthanna Alwahash</maintainer>
 
   <license>Apache License 2.0</license>
   
-  <url type="repository">https://github.com/mkhuthir/rrbot</url>
+  <url type="repository">https://github.com/mkhuthir/diffbot</url>
 
   <author>Muthanna Alwahash</author>
 
